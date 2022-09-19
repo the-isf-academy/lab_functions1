@@ -1,13 +1,9 @@
+#######################
+# Unit 0 Lab 6
+# icecream.py
+#######################
+
 from turtle import *
-
-def setup(x,y):
-    # this function moves the turtle to a given x,y location
-
-    penup()
-    goto(x,y)
-    pendown()
-    setheading(0)
-
 
 def scoop(num_scoops):
     # 💻 Complete edit the scoop() function below 💻 #
@@ -26,7 +22,6 @@ def draw_icecream():
     # 💻 You may need to edit the code below 💻 #
 
     cone()
-    setup(0,0)
     scoop(3)
 
 

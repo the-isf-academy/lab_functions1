@@ -7,7 +7,7 @@ from turtle import *
 
 
 
-# 💻 WRITE draw_hexagon BELOW  💻 #
+# 💻 Write draw_hexagon() BELOW  💻 #
 
 
 

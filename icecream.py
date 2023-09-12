@@ -1,7 +1,4 @@
-#######################
-# Unit 0 Lab 6
 # icecream.py
-#######################
 
 from turtle import *
 

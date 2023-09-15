@@ -2,26 +2,27 @@
 
 from turtle import *
 
-def scoop(num_scoops):
-    # 💻 Complete edit the scoop() function below 💻 #
-
-    circle(100)
-
-
-def cone():
-    # 💻 Complete and edit the cone() function below 💻 #
-
-    forward(100)
+def scoop(scoop_size):
+    # draws a circle of any size
+    
+    circle(scoop_size)
+   
+ 
 
 
+def cone(side_length, cone_color):
+    # draws a triangle 
+   
+    for i in range(3):
+        forward(side_length)
+        right(120)
+   
 
-def draw_icecream():
-    # 💻 You may need to edit the code below 💻 #
 
-    cone()
-    scoop(3)
+# 💻 Call the functions scoop() and cone() to draw an ice cream cone ⬇️ 
 
 
-draw_icecream()
+
+
+hideturtle()
 input()
-

@@ -1,18 +1,14 @@
-#######################
-# Unit 0 Lab 6
 # hexagon.py
-#######################
 
 from turtle import *
 
 
 
-# 💻 Write draw_hexagon() BELOW  💻 #
+# 💻 Write the definition for draw_hexagon() ⬇️ #
 
 
 
 
 
 
-
-# 💻 DON'T FORGET TO CALL THE FUNCTION HERE  💻 #
+# 💻 Don't forget to call the function  ⬇️ #

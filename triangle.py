@@ -1,17 +1,16 @@
 # triangle.py
 
-
 from turtle import *
 
 def draw_triangle(side_length):
-    #This function draws a triangle
+    # draws a triangle
 
     for i in range(3):
         forward(side_length)
         left(120)
 
 
-# 💻 EXPERIMENT WITH CHANGING THE NUMBER IN THE BRACKETS BELOW  💻 #
+# 💻 Experiment with changing the number in the brackets and rerunning the program ⬇️ #
 
 draw_triangle(200)
 

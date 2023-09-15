@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "lab-functions"
+name = "lab-functions1"
 version = "0.1.0"
 description = ""
 authors = ["emma <eqbrown@isf.edu.hk>"]
 readme = "README.md"
-packages = [{include = "lab_functions"}]
+packages = [{include = "lab_functions1"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
